@@ -1,0 +1,65 @@
+{
+    "game_genres": [
+      {
+        "name": "Action",
+        "description": "Games that emphasize physical challenges, including hand–eye coordination and reaction-time."
+      },
+      {
+        "name": "Adventure",
+        "description": "Games that focus on narrative-driven gameplay, exploration, and puzzle-solving."
+      },
+      {
+        "name": "RPG",
+        "description": "Role-Playing Games where players assume the roles of characters in a fictional setting, making choices that affect the story and character development."
+      },
+      {
+        "name": "Simulation",
+        "description": "Games that simulate real-world activities or systems, such as managing a city, flying a plane, or farming."
+      },
+      {
+        "name": "Character Customize",
+        "description": "Games that allow players to create and modify characters, often with extensive customization options for appearance and abilities."
+      },
+      {
+        "name": "Eroge",
+        "description": "Erotic games that often include adult themes and content, typically originating from Japan."
+      },
+      {
+        "name": "Mature",
+        "description": "Games intended for an adult audience, often featuring mature themes, violence, and explicit content."
+      },
+      {
+        "name": "Open World",
+        "description": "Games that feature a vast, open environment where players can explore freely and complete objectives in a non-linear fashion."
+      },
+      {
+        "name": "Strategy",
+        "description": "Games that emphasize strategic or tactical planning, often involving resource management and long-term thinking."
+      },
+      {
+        "name": "Puzzle",
+        "description": "Games that challenge the player's problem-solving skills through logic, pattern recognition, sequence solving, or word completion."
+      },
+      {
+        "name": "Sports",
+        "description": "Games that simulate the practice of sports, including traditional sports, extreme sports, and competitive activities."
+      },
+      {
+        "name": "Racing",
+        "description": "Games that focus on racing competitions, whether with cars, motorcycles, boats, or other vehicles."
+      },
+      {
+        "name": "Shooter",
+        "description": "Games that focus on weapon-based combat, often in a first-person or third-person perspective."
+      },
+      {
+        "name": "Fighting",
+        "description": "Games that focus on close combat between a limited number of characters, often in a series of rounds."
+      },
+      {
+        "name": "Horror",
+        "description": "Games designed to scare the player through atmosphere, enemies, and storytelling, often featuring survival elements."
+      }
+    ]
+  }
+  

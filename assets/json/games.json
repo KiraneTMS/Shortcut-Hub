@@ -1,0 +1,21 @@
+{
+    "games": [
+      {
+        "name": "Your Game",
+        "path": "C:\\Program Files\\Your Game",
+        "icon_path": "C:\\Program Files\\Your Game\\icon.png",
+        "publisher": "publisher",
+        "developer": "developer",
+        "short_description": "short description",
+        "description": "description",
+        "filename": "game.exe",
+        "genres": [
+          "Action",
+          "Character Customize",
+          "open world",
+          "ETC"
+        ],
+        "playedTime": "2024-06-04T00:27:33.439841"
+      }
+    ]
+  }

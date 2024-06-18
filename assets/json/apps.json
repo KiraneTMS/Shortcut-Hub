@@ -1,0 +1,15 @@
+{
+    "apps": [
+      {
+        "name": "Your App",
+        "path": "C:\\Program Files\\Your App",
+        "icon_path": "C:\\Program Files\\Your App\\icon.png",
+        "publisher": "publisher",
+        "developer": "developer",
+        "short_description": "short description",
+        "description": "description",
+        "filename": "app.exe",
+        "usedTime": "2024-06-14T00:12:15.443495"
+      }
+    ]
+  }
